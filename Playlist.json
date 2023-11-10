@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "354e461b11309b4d3be10231",
+    "username": "Svetlanka",
+    "movieIds": [
+      "movie-1",
+      "movie-2"
+    ]
+  },
+  {
+    "Id": "654e479f2e455e3e5f616f08",
+    "username": "Dimom4ik",
+    "movieIds": [
+      "Movie-1",
+      "Movie-2"
+    ]
+  }
+]
